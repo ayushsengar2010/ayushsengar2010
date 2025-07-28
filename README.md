@@ -17,14 +17,15 @@
 - ⚡ Fun fact: I love solving real-world problems using data and automation 🤖
 
 ---
-
+## 🧠 Problem Solving & Algorithms
+- Solving real-world problems using C++, Python, and logic-driven thinking.
+  
 ## 🛠️ Tech Stack
 
 ### 🌐 Full-Stack Development
 
 <p align="left">
   <!-- Languages -->
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
   
