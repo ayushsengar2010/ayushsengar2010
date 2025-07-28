@@ -17,9 +17,13 @@
 - ⚡ Fun fact: I love solving real-world problems using data and automation 🤖
 
 ---
+
 ## 🧠 Problem Solving & Algorithms
+
 - Solving real-world problems using C++, Python, and logic-driven thinking.
-  
+
+---
+
 ## 🛠️ Tech Stack
 
 ### 🌐 Full-Stack Development
