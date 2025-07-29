@@ -75,21 +75,19 @@
 
 ## 📂 Featured Projects
 
-### 🎨 UI/UX Designs (Figma Prototypes)
+### 🎨 UI/UX Designs – Figma Prototypes
 
-Here are a few UI/UX projects I’ve designed using **Figma**. Click the links to explore the interactive prototypes:
+Here are some UI/UX projects I’ve designed using **Figma**. Click to view the interactive prototypes:
 
-| Project | Preview |
-|--------|---------|
-| 💸 **FinanceFit** | [View Figma](https://www.figma.com/proto/nItThZ6r0p0Lo3htCcDhSj/Fit-Finance?node-id=0-1&t=nKlBaJXhwQmm0f84-1) |
-| 📘 **UMLA (Learning App)** | [View Figma](https://www.figma.com/proto/zTagPPatwZkh9pgesto7Lk/UMLA?node-id=1-566&t=mMqA9pOykAIAJ1p1-1) |
-| 🎓 **Vidya Junction (Edu Website)** | [View Figma](https://www.figma.com/proto/QkU1TQYmg38rxFsqoasr2c/Website?node-id=0-1&t=BQWEMSQOss3TMnt0-1) |
-| 📖 **StoryGram (Social Reading App)** | [View Figma](https://www.figma.com/proto/rq9byPtTHpgFXiJzI9K4s4/Project---3-final-design?node-id=0-1&t=Y81KbrmHlPhPmWC1-1) |
-| 📸 **PixVault (Photo Sharing App)** | [View Figma](https://www.figma.com/proto/liEwloVwiOgD6yFhteOFU2/PixVault-Photo-App?node-id=0-1&t=7f9ZbWnWYb2pEcWf-1) |
-| 🧠 **Design Thinking UI** | [View Figma](https://www.figma.com/proto/0kV9fkNQ7QNN6yOuy3SBQF/Design-Thinking?node-id=0-1&t=OEsB192b2Nc27hg6-1) |
-| 🍔 **Food Delivery App** | [View Figma](https://www.figma.com/proto/L27BQuwYWSRjqv5B3pRZ8z/Food-Delivery-App?node-id=1-548&t=56Xth4WApLEM1RuK-1) |
+- 💸 **[FinanceFit](https://www.figma.com/proto/nItThZ6r0p0Lo3htCcDhSj/Fit-Finance?node-id=0-1&t=nKlBaJXhwQmm0f84-1)** — Personal finance management UI
+- 📘 **[UMLA (Learning App)](https://www.figma.com/proto/zTagPPatwZkh9pgesto7Lk/UMLA?node-id=1-566&t=mMqA9pOykAIAJ1p1-1)** — Mobile-first learning experience
+- 🎓 **[Vidya Junction (Edu Website)](https://www.figma.com/proto/QkU1TQYmg38rxFsqoasr2c/Website?node-id=0-1&t=BQWEMSQOss3TMnt0-1)** — Education portal landing
+- 📖 **[StoryGram (Social Reading App)](https://www.figma.com/proto/rq9byPtTHpgFXiJzI9K4s4/Project---3-final-design?node-id=0-1&t=Y81KbrmHlPhPmWC1-1)** — Community-based reading and sharing
+- 📸 **[PixVault (Photo Sharing App)](https://www.figma.com/proto/liEwloVwiOgD6yFhteOFU2/PixVault-Photo-App?node-id=0-1&t=7f9ZbWnWYb2pEcWf-1)** — Minimalist photo storage app
+- 🧠 **[Design Thinking UI](https://www.figma.com/proto/0kV9fkNQ7QNN6yOuy3SBQF/Design-Thinking?node-id=0-1&t=OEsB192b2Nc27hg6-1)** — Ideation-focused interface mockup
+- 🍔 **[Food Delivery App](https://www.figma.com/proto/L27BQuwYWSRjqv5B3pRZ8z/Food-Delivery-App?node-id=1-548&t=56Xth4WApLEM1RuK-1)** — Simple and clean food ordering flow
 
-> ✨ *More full-stack & ML projects coming soon — stay tuned!*
+> ⚙️ *More full-stack & ML projects coming soon — stay tuned!*
 
 ---
 
