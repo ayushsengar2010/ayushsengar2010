@@ -1,4 +1,3 @@
-
 <img src="https://komarev.com/ghpvc/?username=ayushsengar2010&label=Profile%20Views&color=0e75b6&style=flat" alt="Visitor Badge"/>
 
 <!-- Condensed Header -->
@@ -28,20 +27,13 @@
 ### 🌐 Full-Stack Development
 
 <p align="left">
-  <!-- Languages -->
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-  
-  <!-- Frontend -->
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
-  
-  <!-- Backend -->
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
   <img src="https://img.shields.io/badge/REST%20API-FF6C37?style=for-the-badge&logo=api&logoColor=white"/>
-  
-  <!-- Databases -->
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
 </p>
@@ -83,7 +75,21 @@
 
 ## 📂 Featured Projects
 
-🚧 *Coming soon — stay tuned!*
+### 🎨 UI/UX Designs (Figma Prototypes)
+
+Here are a few UI/UX projects I’ve designed using **Figma**. Click the links to explore the interactive prototypes:
+
+| Project | Preview |
+|--------|---------|
+| 💸 **FinanceFit** | [View Figma](https://www.figma.com/proto/nItThZ6r0p0Lo3htCcDhSj/Fit-Finance?node-id=0-1&t=nKlBaJXhwQmm0f84-1) |
+| 📘 **UMLA (Learning App)** | [View Figma](https://www.figma.com/proto/zTagPPatwZkh9pgesto7Lk/UMLA?node-id=1-566&t=mMqA9pOykAIAJ1p1-1) |
+| 🎓 **Vidya Junction (Edu Website)** | [View Figma](https://www.figma.com/proto/QkU1TQYmg38rxFsqoasr2c/Website?node-id=0-1&t=BQWEMSQOss3TMnt0-1) |
+| 📖 **StoryGram (Social Reading App)** | [View Figma](https://www.figma.com/proto/rq9byPtTHpgFXiJzI9K4s4/Project---3-final-design?node-id=0-1&t=Y81KbrmHlPhPmWC1-1) |
+| 📸 **PixVault (Photo Sharing App)** | [View Figma](https://www.figma.com/proto/liEwloVwiOgD6yFhteOFU2/PixVault-Photo-App?node-id=0-1&t=7f9ZbWnWYb2pEcWf-1) |
+| 🧠 **Design Thinking UI** | [View Figma](https://www.figma.com/proto/0kV9fkNQ7QNN6yOuy3SBQF/Design-Thinking?node-id=0-1&t=OEsB192b2Nc27hg6-1) |
+| 🍔 **Food Delivery App** | [View Figma](https://www.figma.com/proto/L27BQuwYWSRjqv5B3pRZ8z/Food-Delivery-App?node-id=1-548&t=56Xth4WApLEM1RuK-1) |
+
+> ✨ *More full-stack & ML projects coming soon — stay tuned!*
 
 ---
 
