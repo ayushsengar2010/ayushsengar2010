@@ -1,10 +1,9 @@
+
+<img src="https://komarev.com/ghpvc/?username=ayushsengar2010&label=Profile%20Views&color=0e75b6&style=flat" alt="Visitor Badge"/>
+
 <!-- Condensed Header -->
 <h1 align="center">Hi there, I'm Ayush Sengar 👋</h1>
 <p align="center">A passionate Full-Stack Developer & Data Enthusiast who loves building 🚀 and sharing creativity with the community.</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ayushsengar2010&label=Profile%20Views&color=0e75b6&style=flat" alt="Visitor Badge"/>
-</p>
 
 ---
 
