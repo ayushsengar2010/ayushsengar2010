@@ -85,11 +85,25 @@ I enjoy tackling complex challenges through **logic-driven thinking** and **effi
 ---
 
 ## 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ayushsengar2010&show_icons=true&theme=radical&cache_seconds=1800" alt="Ayush's GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ayushsengar2010&show_icons=true&theme=radical" alt="Ayush's GitHub Stats" />
 </p>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushsengar2010&layout=compact&theme=radical" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushsengar2010&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ayushsengar2010&theme=radical&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ayushsengar2010&theme=radical&no-frame=true&margin-w=5" alt="GitHub Trophies" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ayushsengar2010&theme=radical" alt="Profile Summary Card" />
 </p>
 
 ---
