@@ -4,32 +4,37 @@
 </p>
 
 <!-- Header -->
-<h1 align="center">Hi there, I'm Ayush Sengar 👋</h1>
+<h1 align="center">Hi, I'm Ayush Sengar 👋</h1>
 <p align="center">
-  🚀 Full-Stack Developer | 🤖 Data Enthusiast | 📱 Mobile App Creator  
-  Building, innovating & sharing creativity with the community.
+  🚀 Full-Stack Developer&nbsp; | &nbsp;🤖 Data Science Enthusiast&nbsp; | &nbsp;📱 Mobile App Creator  
+</p>
+<p align="center">
+  Passionate about building impactful solutions, exploring cutting-edge technologies, and sharing creativity with the community.
 </p>
 
 ---
 
 ## 🧑‍💻 About Me
-- 🔭 Currently working on **Full-Stack Web Apps, ML Models, and Flutter Mobile Apps**
-- 🌱 Exploring **Firebase, TensorFlow, and Mobile UI Animations**
-- 💬 Ask me about **React, Node.js, Python, Flutter, Android, and Machine Learning**
-- 📫 Reach me at: **foge1003@gmail.com**
-- ⚡ Fun fact: I love solving real-world problems using **data & automation** 🤖
+- 🔭 Currently working on **Full-Stack Web Applications, Machine Learning Models, and Flutter Mobile Apps**
+- 🌱 Exploring **Firebase, TensorFlow, and Advanced Mobile UI Animations**
+- 💬 Skilled in **React, Node.js, Python, Flutter, Android Development, and Machine Learning**
+- 📫 Contact: **foge1003@gmail.com**
+- ⚡ Fun fact: I enjoy turning real-world problems into automated, data-driven solutions 🤖
 
 ---
 
-## 🧠 Problem Solving
-I enjoy tackling complex challenges through **logic-driven thinking** and **efficient algorithms** using **C++** and **Python**.
+## 🧠 Problem-Solving Approach
+I love tackling **complex challenges** using:
+- **C++** for high-performance algorithms  
+- **Python** for rapid prototyping and data analytics  
+- **Logic-driven thinking** to craft efficient, scalable solutions
 
 ---
 
 ## 🛠️ Tech Stack
 
 ### 🌐 Full-Stack Development
-<p align="left">
+<p>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
@@ -42,7 +47,7 @@ I enjoy tackling complex challenges through **logic-driven thinking** and **effi
 </p>
 
 ### 🤖 Data Science & Machine Learning
-<p align="left">
+<p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
@@ -52,7 +57,7 @@ I enjoy tackling complex challenges through **logic-driven thinking** and **effi
 </p>
 
 ### 📱 Mobile Development
-<p align="left">
+<p>
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
@@ -63,7 +68,7 @@ I enjoy tackling complex challenges through **logic-driven thinking** and **effi
 </p>
 
 ### ⚙️ Tools & DevOps
-<p align="left">
+<p>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
@@ -73,47 +78,47 @@ I enjoy tackling complex challenges through **logic-driven thinking** and **effi
 
 ---
 
-## 🎨 Featured UI/UX Projects (Figma)
-- 💸 [FinanceFit](https://www.figma.com/proto/nItThZ6r0p0Lo3htCcDhSj/Fit-Finance?node-id=0-1) — Personal finance management UI  
-- 📘 [UMLA](https://www.figma.com/proto/zTagPPatwZkh9pgesto7Lk/UMLA?node-id=1-566) — Mobile-first learning app  
-- 🎓 [Vidya Junction](https://www.figma.com/proto/QkU1TQYmg38rxFsqoasr2c/Website?node-id=0-1) — Education portal  
-- 📖 [StoryGram](https://www.figma.com/proto/rq9byPtTHpgFXiJzI9K4s4/Project---3-final-design?node-id=0-1) — Social reading app  
-- 📸 [PixVault](https://www.figma.com/proto/liEwloVwiOgD6yFhteOFU2/PixVault-Photo-App?node-id=0-1) — Photo storage app  
-- 🧠 [Design Thinking UI](https://www.figma.com/proto/0kV9fkNQ7QNN6yOuy3SBQF/Design-Thinking?node-id=0-1) — Ideation-focused interface  
-- 🍔 [Food Delivery App](https://www.figma.com/proto/L27BQuwYWSRjqv5B3pRZ8z/Food-Delivery-App?node-id=1-548) — Clean ordering flow  
+## 🎨 Featured UI/UX Projects
+Here are some of my **Figma Prototypes**:
+- 💸 [FinanceFit](https://www.figma.com/proto/nItThZ6r0p0Lo3htCcDhSj/Fit-Finance) — Personal finance management UI  
+- 📘 [UMLA](https://www.figma.com/proto/zTagPPatwZkh9pgesto7Lk/UMLA) — Mobile-first learning app  
+- 🎓 [Vidya Junction](https://www.figma.com/proto/QkU1TQYmg38rxFsqoasr2c/Website) — Education portal  
+- 📖 [StoryGram](https://www.figma.com/proto/rq9byPtTHpgFXiJzI9K4s4/Project---3-final-design) — Social reading app  
+- 📸 [PixVault](https://www.figma.com/proto/liEwloVwiOgD6yFhteOFU2/PixVault-Photo-App) — Photo storage app  
+- 🧠 [Design Thinking UI](https://www.figma.com/proto/0kV9fkNQ7QNN6yOuy3SBQF/Design-Thinking) — Ideation-focused interface  
+- 🍔 [Food Delivery App](https://www.figma.com/proto/L27BQuwYWSRjqv5B3pRZ8z/Food-Delivery-App) — Simple, clean ordering flow  
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ayushsengar2010&show_icons=true&theme=radical" alt="Ayush's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ayushsengar2010&show_icons=true&theme=radical" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushsengar2010&layout=compact&theme=radical" height="160" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushsengar2010&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://streak-stats.demolab.com?user=ayushsengar2010&theme=radical&hide_border=true" height="160" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=ayushsengar2010&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ayushsengar2010&theme=radical&no-frame=true&margin-w=5" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ayushsengar2010&theme=radical&no-frame=true&margin-w=5" alt="GitHub Trophies" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ayushsengar2010&theme=radical" alt="Profile Summary Card" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ayushsengar2010&theme=radical" />
 </p>
 
 ---
 
-## 📫 Connect With Me
-- 🔗 [LinkedIn](https://www.linkedin.com/in/ayushsengar004/)  
-- 📧 **foge1003@gmail.com**
+## 📫 Let's Connect
+<p align="left">
+  <a href="https://www.linkedin.com/in/ayushsengar004/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:foge1003@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
 
 ---
 
 <p align="center">
-  💙 If you like my work, consider giving a ⭐ to my projects!
+  ⭐ If you like my work, consider giving a star to my repositories — it keeps me motivated!
 </p>
