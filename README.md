@@ -102,10 +102,6 @@ Here are some of my **Figma Prototypes**:
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ayushsengar2010&theme=radical&no-frame=true&margin-w=5" />
-</p>
-
-<p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ayushsengar2010&theme=radical" />
 </p>
 
