@@ -97,9 +97,12 @@ Here are some of my **Figma Prototypes**:
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushsengar2010&layout=compact&theme=radical" height="160" />
 </p>
 
-//<p align="center">
-  //<img src="https://streak-stats.demolab.com?user=ayushsengar2010&theme=radical&hide_border=true" height="160" />
-//</p>
+<!--
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ayushsengar2010&theme=radical&hide_border=true" height="160" />
+</p>
+-->
+
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ayushsengar2010&theme=radical" />
