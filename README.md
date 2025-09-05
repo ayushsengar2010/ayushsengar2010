@@ -6,7 +6,7 @@
 <!-- Header -->
 <h1 align="center">Hi, I'm Ayush Sengar 👋</h1>
 <p align="center">
-  🚀 Full-Stack Developer&nbsp; | &nbsp;🤖 Data Science Enthusiast&nbsp; | &nbsp;📱 Mobile App Creator  
+  🚀 Full-Stack Developer&nbsp; | &nbsp;🤖 Data Science & Machine Learning Enthusiast&nbsp; | &nbsp;📱 Mobile App Creator  
 </p>
 <p align="center">
   Passionate about building impactful solutions, exploring cutting-edge technologies, and sharing creativity with the community.
