@@ -6,7 +6,7 @@
 <img src="https://komarev.com/ghpvc/?username=ayushsengar2010&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
 
 <!-- Header -->
-<h1 align="center">Hi, I'm Ayush Sengar 👋</h1>
+<h1 align="center">Hi, I'm Ayush Sengar👋</h1>
 <p align="center">
   🚀 Full-Stack Developer&nbsp; | &nbsp;🤖 Data Science & Machine Learning Enthusiast&nbsp; | &nbsp;📱 Mobile App Creator  
 </p>
